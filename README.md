@@ -1,13 +1,13 @@
 # Loan_Prediction
 
-### Classification Loan Status
-### simple look on the data
-### Find more deeper in the data
-### Simple process for the data
-### Train the data
-### Build functions
-### Start to improve our model
-### Features engineer
-### Outliers
-### Features selection
-### Evaluate the models
+### 1.Classification Loan Status
+### 2.simple look on the data
+### 3.Find more deeper in the data
+### 4.Simple process for the data
+### 5.Train the data
+### 6.Build functions
+### 7.Start to improve our model
+### 8.Features engineer
+### 9.Outliers
+### 10.Features selection
+### 11.Evaluate the models
